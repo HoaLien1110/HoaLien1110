@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hòa Liên - Career Advisor/IT Recruiter of Viecoi Company
 - 👀 I’m interested in Human Resources and Information Technology
-- 🌱 I’m currently looking for position in IT field: Frontend, Backend, Fullstack, BrSE,...
+- 🌱 I’m currently looking for Potential Candidates in IT field: Frontend, Backend, Fullstack, BrSE,...
 - 📫 If you're searching for new opportunities, please contact me for more details
 
 💡 Linkedin: https://www.linkedin.com/in/h%C3%B2a-li%C3%AAn-b3b020248/
